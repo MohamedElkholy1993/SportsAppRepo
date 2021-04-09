@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AnimatedCollectionViewLayout (1.1.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - AnimatedCollectionViewLayout
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SDWebImage
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatedCollectionViewLayout
+    - NVActivityIndicatorView
+    - ReachabilitySwift
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AnimatedCollectionViewLayout: 0c1a38c4be115c525c887be183fc91ef65737c5d
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 0c019b9cc1d0cb6cde5c05cb072e1e6780c70775
+
+COCOAPODS: 1.10.1
